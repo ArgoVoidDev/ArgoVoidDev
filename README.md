@@ -39,7 +39,7 @@ Future long-term plans include entering the world of **Game Development** and cr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode,figma,unity,C#" />
 
 </div>
 
