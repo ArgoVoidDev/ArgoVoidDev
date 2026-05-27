@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ArgoVoidDev/ArgoVoidDev/main/ArgoVoid.png" width="220"/>
+<img src="https://raw.githubusercontent.com/ArgoVoidDev/ArgoVoidDev/refs/heads/main/ArgoVoid-Banner.png" />
 
 # ARGOVOID
 
