@@ -1,49 +1,87 @@
-# <div align="center">ArgoVoid</div>
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/ArgoVoidDev/ArgoVoidDev/main/ArgoVoid.png" width="500"/>
-</div>
+
+<img src="https://raw.githubusercontent.com/ArgoVoidDev/ArgoVoidDev/main/ArgoVoid.png" width="220"/>
+
+# ARGOVOID
+
+### Frontend Developer • Future Game Developer
+
+<p>
+Building modern web projects and creative experiences under the name <strong>ArgoVoid</strong>.
+</p>
 
 <br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Creative+Coding;Future+Game+Developer;Building+ArgoVoid+Studio" />
+
+</div>
+
+---
+
+# About ArgoVoid
+
+**ArgoVoid** is a personal creative brand focused on software development, frontend experiences, and future game projects.
+
+The brand is founded and managed by **AmirH_B** and is gradually evolving into **ArgoVoid Studio**.
+
+Currently focused on:
+
+* Frontend Development
+* JavaScript
+* UI / Creative Interfaces
+* Learning & Building Projects
+
+Future long-term plans include entering the world of **Game Development** and creating interactive experiences under the name **ArgoVoid Studio**.
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode,figma" />
+
+</div>
+
+---
+
+# Current Focus
+
+```txt
+Learning frontend deeply
+Building real projects
+Improving UI thinking
+Growing ArgoVoid step by step
+```
+
+---
+
+# Philosophy
+
+<div align="center">
+
+> "Create. Learn. Evolve."
+
+</div>
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArgoVoidDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArgoVoidDev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 <div align="center">
 
 ### ArgoVoid Studio
 
-Creative development studio focused on building modern web experiences and future game projects.
-
-Founded and managed by **AmirH_B**
-
-</div>
-
----
-
-## About
-
-Currently working and learning as a **Frontend Developer**, while gradually expanding into the world of **Game Development**.
-
-Building projects and ideas under the name **ArgoVoid** with a long-term focus on creative software and interactive experiences.
-
----
-
-## Tech & Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
-</p>
-
----
-
-## Vision
-
-ArgoVoid Studio is planned as a creative space for future software and game development projects.
-
-The goal is to slowly grow the brand through learning, experimentation, and building meaningful projects over time.
-
----
-
-<div align="center">
-
-> “Learning, building, and evolving under the name ArgoVoid.”
+*Building toward future software and game projects.*
 
 </div>
